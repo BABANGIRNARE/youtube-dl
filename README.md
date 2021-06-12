@@ -149,7 +149,7 @@ Alternatively, refer to the [developer instructions](#developer-instructions) fo
     --min-filesize SIZE                  Do not download any videos smaller than
                                          SIZE (e.g. 50k or 44.6m)
     --max-filesize SIZE                  Do not download any videos larger than
-                                         SIZE (e.g. 50k or 44.6m)
+                                         SIZE (e.g. 50k or 1999.6m)
     --date DATE                          Download only videos uploaded in this
                                          date
     --datebefore DATE                    Download only videos uploaded on or
@@ -195,7 +195,7 @@ Alternatively, refer to the [developer instructions](#developer-instructions) fo
 
 ## Download Options:
     -r, --limit-rate RATE                Maximum download rate in bytes per
-                                         second (e.g. 50K or 4.2M)
+                                         second (e.g. 50K or 999.2M)
     -R, --retries RETRIES                Number of retries (default is 10), or
                                          "infinite".
     --fragment-retries RETRIES           Number of retries for a fragment
